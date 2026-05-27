@@ -15,8 +15,4 @@ Computer Science graduate and Java Full-Stack developer.
 - Email: vadim.katsel@gmail.com
 - LinkedIn: [here](https://www.linkedin.com/in/vadym-katsel/)
 
-Sone stats
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimkatsel&show_icons=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimkatsel&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=700&lines=Java+Developer;Full-Stack+Enthusiast;Building+things+with+code)](https://git.io/typing-svg)
