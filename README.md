@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vadim 👋
 
-<!--
-**vadimkatsel/vadimkatsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate and Java Full-Stack developer.
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Java(SpringBoot)
+- Web development(React/TypeScript)
+- UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Current projects:
+- Archive Extractor
+
+📫 Contact:
+- Email: vadim.katsel@gmail.com
+- LinkedIn: [here](https://www.linkedin.com/in/vadym-katsel/)
