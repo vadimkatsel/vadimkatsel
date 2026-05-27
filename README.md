@@ -1,6 +1,6 @@
 # Hi, I'm Vadim 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A855F7&size=14&center=true&vCenter=true&width=900&pause=1000&duration=3000&lines=Frontend+Developer;Full-Stack+Enthusiast;Building+code+and+collecting+stories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A855F7&size=24&width=900&pause=1000&duration=3000&lines=Frontend+Developer;Full-Stack+Enthusiast;Building+code+and+collecting+stories)](https://git.io/typing-svg)
 
 💻 Interested in:
 - Java(SpringBoot)
